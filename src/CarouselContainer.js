@@ -12,5 +12,4 @@ const CarouselContainer = styled.div`
   }};
 
 `
-
 export default CarouselContainer
