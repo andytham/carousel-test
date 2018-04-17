@@ -17,10 +17,10 @@ export default class CarouselPage extends Component {
         <Carousel
           title="Carousel"
         >
-          <Item>Item 0 </Item>
-          <Item>Item 1</Item>
-          <Item>Item 2 </Item>
-          <Item>Item 3</Item>
+          <Item index={ 1}>Item 0 </Item>
+          <Item index={ 2 }>Item 1</Item>
+          <Item index={ 3 }>Item 2 </Item>
+          <Item index={ 4 }>Item 3</Item>
         </Carousel>
       </div>
     );
